@@ -139,16 +139,5 @@ More command can be seen with:
 
 $ ./PUNF_PRO -help
 
-
-## Script
-
-You can set SHELL script in the debug directory (build) to batch the testing files.
-
-We provide a scripts to run the experiments in the manuscript and reproduce the experimental results.
-
-$ chmod +x run.sh
-
-$ sudo ./run.sh
-
 After execution, *_unf.csv file are the original result files in the 'build' directory.
 
